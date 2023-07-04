@@ -18,3 +18,4 @@ MinecraftGamesは、Minecraftサーバー上で様々なゲームを楽しむた
 コマンド 各ゲームを開始するためのコマンドは以下の通りです：
 
 神経衰弱ゲーム：/shinkeisuijaku 鉱石採掘ゲーム：/orelmining 宝さがしゲーム：/treasurehunt ランダムテレポート：/randomTeleport プレイヤー初期化：/initPlayer 初期位置への戻り：/initialPosition インストール Minecraftサーバーのpluginsフォルダにこのプラグインの.jarファイルをコピーし、サーバーを再起動またはリロードします。
+
