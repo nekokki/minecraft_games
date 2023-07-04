@@ -1,0 +1,15 @@
+name: minecraftGames
+version: '1.0-SNAPSHOT'
+main: plugin.minecraftgames.MinecraftGames
+api-version: 1.19
+commands:
+  shinkeisuijaku:
+  shinkeisuijaku-scorelist:
+  shinkeisuijaku-showpairs:
+  orelmining:
+  orelmining-scorelist:
+  treasurehunt:
+  treasurehunt-scorelist:
+  initPlayer:
+  randomTeleport:
+  initialPosition:
